@@ -1,4 +1,4 @@
 <h1>abhpollo</h1>
 
-I build cool apps. Most repositories are private.
+I build cool things. Most repositories are private.
 
